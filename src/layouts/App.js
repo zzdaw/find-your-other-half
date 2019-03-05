@@ -19,7 +19,7 @@ class App extends Component {
   // }
   render() {
     return (
-      <Router>
+      <Router basename='/'>
         <div className='app'>
           <header>
             {<Header />}
