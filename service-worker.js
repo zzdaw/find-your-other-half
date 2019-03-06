@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/find-your-other-half/precache-manifest.26eff910d348a1e95562afa79499eee0.js"
+  "/find-your-other-half/precache-manifest.550029abb69da2cdcaeb91a5aeeed7db.js"
 );
 
 workbox.clientsClaim();
