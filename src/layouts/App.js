@@ -19,7 +19,7 @@ class App extends Component {
   // }
   render() {
     return (
-      <Router basename='/male'>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className='app'>
           <header>
             {<Header />}
