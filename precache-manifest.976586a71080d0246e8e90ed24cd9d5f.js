@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/find-your-other-half/static/media/img2.f8fc1994.jpg"
   },
   {
-    "revision": "83848b1bbbb5ce43b78d",
+    "revision": "620832ea5d97266709bb",
     "url": "/find-your-other-half/static/css/main.b1492abb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/find-your-other-half/static/media/img1.90514834.jpg"
   },
   {
-    "revision": "83848b1bbbb5ce43b78d",
-    "url": "/find-your-other-half/static/js/main.83848b1b.chunk.js"
+    "revision": "620832ea5d97266709bb",
+    "url": "/find-your-other-half/static/js/main.620832ea.chunk.js"
   },
   {
     "revision": "d88493c70332e47a40a3e0a2eb3cd850",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/find-your-other-half/static/media/transparent.2757b163.png"
   },
   {
-    "revision": "1cf6dd4770c5442121a246766af56c0e",
+    "revision": "ad2f0138e6d03908d76899a4c9a0f9cd",
     "url": "/find-your-other-half/index.html"
   }
 ];
