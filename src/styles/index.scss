@@ -1,0 +1,23 @@
+@import 'App';
+@import 'Header';
+@import 'Navigation';
+@import 'Page';
+@import 'ContactPage';
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'open sans', sans-serif;
+  font-size: 20px;
+
+  @media (min-width: 1920px) {
+    font-size: 25px;
+  }
+}
+
+// @media (min-width:1920px)

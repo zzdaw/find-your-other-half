@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/ContactPage.css';
+//import '../styles/_ContactPage.scss';
 import { Prompt } from 'react-router-dom';
 
 class ContactPage extends React.Component {
@@ -24,7 +24,7 @@ class ContactPage extends React.Component {
                     <textarea value={this.state.value} onChange={this.handleChange} placeholder='Write a message...'></textarea>
                     <button>Send</button>
                 </form>
-                <Prompt when={this.state.value} message='the form is not filled out, do you want exit?' />
+                <Prompt when={this.state.value ? true : false} message='the form is not filled out, do you want exit?' />
             </div>
         )
     }
